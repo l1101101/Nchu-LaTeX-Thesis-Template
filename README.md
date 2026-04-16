@@ -2,6 +2,12 @@
 
 本模板以國立中興大學碩士論文格式為基礎，使用 XeLaTeX 編譯，已整理好封面、書名頁、摘要、目錄、章節、參考文獻與附錄的基本架構。
 
+#下載安裝vscode
+下載連結 https://code.visualstudio.com/
+開啟vscode
+點選左側欄explorer，open folder，開啟下載軟體包之資料夾
+使用右側欄chat，登入github，輸入建立專案、編譯PDF，即可產出論文
+
 ## 文件入口
 
 - `README.md`：使用方式、快速開始、常見操作與疑難排解
